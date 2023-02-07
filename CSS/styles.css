@@ -9,6 +9,9 @@ hr{
   border-width: 3px;
   margin-left: 0;
 }
+hr:hover{
+  border-style: solid none none none;
+}
 h1{
   color: #a75e5e;
 }
@@ -38,6 +41,4 @@ textarea{
 }
 audio::-webkit-media-controls-panel{
   background-color: #a75e5e;
-}
-
 }
